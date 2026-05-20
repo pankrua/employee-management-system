@@ -13,7 +13,9 @@ Internal employee management system developed using PHP and MySQL.
 - PHP
 - MySQL
 - Bootstrap
+## Screenshot
 
+![Onlyyou](onlyyou.jpg)
 ## My Responsibility
 - Backend Development
 - Database Design
