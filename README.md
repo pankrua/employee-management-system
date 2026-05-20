@@ -20,4 +20,4 @@ Internal employee management system developed using PHP and MySQL.
 - UI Development
 ## Screenshot
 
-![Cafe](cafe.png)
+![Cafe](cafe.jpg)
