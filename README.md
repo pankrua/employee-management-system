@@ -1,1 +1,3 @@
-# employee-management-system
+README
+screenshot
+flow ระบบ
