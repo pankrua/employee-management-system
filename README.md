@@ -8,7 +8,9 @@ Internal employee management system developed using PHP and MySQL.
 - Employee CRUD
 - Search Employee
 - User Roles
+## Screenshot
 
+![systemcp](systemcp.png)
 ## Tech Stack
 - PHP
 - MySQL
